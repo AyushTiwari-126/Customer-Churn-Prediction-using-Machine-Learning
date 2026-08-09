@@ -1,4 +1,4 @@
-# ChurnGuard — Telco Customer Churn Prediction
+# Customer-Churn-Prediction-using-Machine-Learning
 
 A machine learning web app that predicts whether a telecom customer is likely to churn, built with **Python, scikit-learn, and Streamlit**. Enter a customer's details and get an instant churn prediction with probability score.
 
@@ -49,7 +49,7 @@ Customer churn — when a customer stops using a company's service — is one of
 ## Project Structure
 
 ```
-CHURNGUARD/
+Customer-Churn-Prediction-using-Machine-Learning/
 │
 ├── data/
 │   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Raw dataset
@@ -100,8 +100,8 @@ CHURNGUARD/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/churnguard.git
-   cd churnguard
+   git clone https://github.com/your-username/Customer-Churn-Prediction-using-Machine-Learning.git
+   cd Customer-Churn-Prediction-using-Machine-Learning
    ```
 
 2. **Create a virtual environment**
