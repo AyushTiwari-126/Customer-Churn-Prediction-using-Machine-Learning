@@ -1,0 +1,45 @@
+# --- Virtual Environment ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.Python
+build/
+dist/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Streamlit ---
+.streamlit/
+
+# --- Environment / Secrets ---
+.env
+*.env
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+
+# --- Data (optional — see note below) ---
+# Uncomment if you don't want the raw/large dataset tracked in git
+# data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+# data/churn_cleaned.csv
+
+# --- Model files (optional — see note below) ---
+# Uncomment if you don't want trained model files tracked in git
+# model/*.pkl
+
+# --- Logs ---
+*.log
