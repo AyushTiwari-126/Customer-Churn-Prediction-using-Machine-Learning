@@ -1,3 +1,4 @@
+https://customer-churn-prediction-using-machine-learning-86qjfgedze5rc.streamlit.app/
 # Customer-Churn-Prediction-using-Machine-Learning
 
 A machine learning web app that predicts whether a telecom customer is likely to churn, built with **Python, scikit-learn, and Streamlit**. Enter a customer's details and get an instant churn prediction with probability score.
